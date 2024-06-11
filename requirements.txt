@@ -14,7 +14,7 @@ greenlet==3.0.3
 ibm-cos-sdk==2.13.4
 ibm-cos-sdk-core==2.13.4
 ibm-cos-sdk-s3transfer==2.13.4
-ibm_watsonx_ai==1.0.4
+ibm-watsonx-ai==1.0.4
 idna==3.7
 importlib_metadata==7.1.0
 itsdangerous==2.2.0
